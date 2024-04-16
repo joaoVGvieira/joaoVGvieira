@@ -1,6 +1,6 @@
 ### 👋 Hello! Welcome to my Github profile.
 
-- 👨🏻‍💻 My name is João Vitor, I'm 21 years old. 
+- 👨🏻‍💻 My name is João Vitor, I'm 22 years old. 
 - 🎓 I am currently a student of the computer science course at UFV campus Florestal.
 - 🌐 I'm currently focusing my efforts on improving my web development skills.
 
