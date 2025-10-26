@@ -72,7 +72,7 @@ My experience includes leading teams and developing award-winning projects, demo
   <a href="https://www.linkedin.com/in/joao-vg-vieira/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://joaoyevieira.github.io/portfolio-main/">
+  <a href="https://joaovgvieira.github.io/portfolio-main/">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/joaoVGvieira">
