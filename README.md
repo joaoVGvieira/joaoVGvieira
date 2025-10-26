@@ -1,14 +1,10 @@
 # João Vitor Gonçalves Vieira
-<a href="https://www.linkedin.com/in/joao-vg-vieira/">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square&logo=linkedin" alt="Open to Work"/>
-</a>
-
-🎓 **Computer Science Student** @ Federal University of Viçosa (UFV)  
-💻 **Full Stack Developer** | Java | Python | PHP | JavaScript | React | Node.js
+**Computer Science Student** @ Federal University of Viçosa (UFV)  
+**Full Stack Developer** | Java | Python | PHP | JavaScript | React | Node.js
 
 ---
 
-### 🚀 Professional Summary
+###  Professional Summary
 
 I am a final-year Computer Science student actively seeking a **Junior Full Stack Developer** position, with a strong preference for **back-end technologies** (Java, Python, PHP, Node.js) and API development in agile environments.
 
@@ -21,7 +17,7 @@ My experience includes leading teams and developing award-winning projects, demo
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 #### Core Backend & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -59,19 +55,15 @@ My experience includes leading teams and developing award-winning projects, demo
 
 ---
 
-### 📊 My GitHub Stats
+### My GitHub Stats
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=joaoVGvieira&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true&custom_title=João's+GitHub+Stats&hide=issues&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoVGvieira&layout=compact&theme=vue-dark&hide_border=true&langs_count=8&hide=jupyter%20notebook,shaderlab&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </p>
-<p align="center">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoVGvieira&theme=vue-dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
-</p>
-
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 <p align="center">
   <a href = "mailto:joaovitorgv2019@gmail.com">
