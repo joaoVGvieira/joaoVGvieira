@@ -1,5 +1,5 @@
 # João Vitor Gonçalves Vieira
-**Computer Science Student** @ Federal University of Viçosa (UFV)  
+**Computer Science Student** at the Federal University of Viçosa (UFV) 
 **Full Stack Developer** | Java | Python | PHP | JavaScript | React | Node.js
 
 ---
@@ -29,7 +29,7 @@ My experience includes leading teams and developing award-winning projects, demo
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-#### Frontend & Mobile
+#### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -61,7 +61,6 @@ My experience includes leading teams and developing award-winning projects, demo
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=joaoVGvieira&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true&custom_title=João's+GitHub+Stats&hide=issues&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoVGvieira&layout=compact&theme=vue-dark&hide_border=true&langs_count=8&hide=jupyter%20notebook,shaderlab&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </p>
----
 
 ### Let's Connect!
 
