@@ -1,5 +1,6 @@
 # João Vitor Gonçalves Vieira
 **Computer Science Student** at the Federal University of Viçosa (UFV) 
+
 **Full Stack Developer** | Java | Python | PHP | JavaScript | React | Node.js
 
 ---
