@@ -8,9 +8,9 @@
 ### Professional Summary
 
 I’m a final-year **Computer Science** student passionate about building scalable, efficient, and impactful software solutions.  
-My goal is to work as a **Junior Full Stack Developer**, focusing primarily on **back-end technologies** such as Java, Python, PHP, and Node.js — applying software engineering best practices, API design, and agile methodologies.
+My goal is to work as a **Junior Full Stack Developer**, focusing primarily on **back-end technologies** such as Java, Python, PHP, and Node.js applying software engineering best practices, API design, and agile methodologies.
 
-Throughout my academic and professional journey, I’ve gained experience across the full software development lifecycle — from system architecture and development to deployment and maintenance — while also growing as a technical leader.
+Throughout my academic and professional journey, I’ve gained experience across the full software development lifecycle from system architecture and development to deployment and maintenance  while also growing as a technical leader.
 
 - 🏆 **Recognized Excellence:** Awarded *“Best Integrated Project of the Year (2024)”* for developing the educational game **“Lagartinha Aventureira”**.  
 - 👨‍💼 **Leadership & Collaboration:** Served as **Vice-President at SetApp Jr.**, leading agile teams and mentoring developers.  
