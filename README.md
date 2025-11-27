@@ -11,7 +11,7 @@ I hold a **Bachelor's degree in Computer Science** from the Federal University o
 
 With a strong foundation in **Software Engineering**, my focus lies in **Full Stack Development** with an emphasis on **Back-end technologies** (Java, Python, PHP, Node.js). I combine technical expertise with leadership skills to deliver high-quality code using design patterns and agile methodologies.
 
-Throughout my academic and professional journey, I have managed the full software development lifecycle—from architecture to CI/CD deployment—while also serving as a technical leader.
+Throughout my academic and professional journey, I have managed the full software development lifecycle from architecture to CI/CD deployment, while also serving as a technical leader.
 
 - 🏆 **Award-Winning Developer:** Creator of *"Lagartinha Aventureira"*, awarded **"Best Integrated Project of the Year (2024)"**.
 - 👨‍💼 **Leadership & Agile:** Former **Vice-President at SetApp Jr.**, responsible for leading squads, mentoring developers, and managing agile workflows.
