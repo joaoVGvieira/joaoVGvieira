@@ -1,21 +1,22 @@
 # João Vitor Gonçalves Vieira
-**Computer Science Student** at the Federal University of Viçosa (UFV)  
 
-**Full Stack Developer** | Java | Python | PHP | JavaScript | React | Node.js  
+**Computer Science Graduate** at the Federal University of Viçosa (UFV)  
+**Full Stack Developer** | Java | Python | PHP | JavaScript | React | Node.js
 
 ---
 
 ### Professional Summary
 
-I’m a final-year **Computer Science** student passionate about building scalable, efficient, and impactful software solutions.  
-My goal is to work as a **Junior Full Stack Developer**, focusing primarily on **back-end technologies** such as Java, Python, PHP, and Node.js applying software engineering best practices, API design, and agile methodologies.
+I hold a **Bachelor's degree in Computer Science** from the Federal University of Viçosa (UFV) and I am passionate about building scalable, efficient, and secure software solutions.
 
-Throughout my academic and professional journey, I’ve gained experience across the full software development lifecycle from system architecture and development to deployment and maintenance  while also growing as a technical leader.
+With a strong foundation in **Software Engineering**, my focus lies in **Full Stack Development** with an emphasis on **Back-end technologies** (Java, Python, PHP, Node.js). I combine technical expertise with leadership skills to deliver high-quality code using design patterns and agile methodologies.
 
-- 🏆 **Recognized Excellence:** Awarded *“Best Integrated Project of the Year (2024)”* for developing the educational game **“Lagartinha Aventureira”**.  
-- 👨‍💼 **Leadership & Collaboration:** Served as **Vice-President at SetApp Jr.**, leading agile teams and mentoring developers.  
-- 🔄 **Full Development Cycle:** Experience in API design, database integration, version control, and CI/CD pipelines.  
-- 🎯 **Quality-Driven Mindset:** Advocate of clean code, design patterns, and continuous improvement.  
+Throughout my academic and professional journey, I have managed the full software development lifecycle—from architecture to CI/CD deployment—while also serving as a technical leader.
+
+- 🏆 **Award-Winning Developer:** Creator of *"Lagartinha Aventureira"*, awarded **"Best Integrated Project of the Year (2024)"**.
+- 👨‍💼 **Leadership & Agile:** Former **Vice-President at SetApp Jr.**, responsible for leading squads, mentoring developers, and managing agile workflows.
+- 🔄 **End-to-End Engineering:** Experienced in API design (REST), database modeling, and automated deployment pipelines.
+- 🎯 **Commitment to Quality:** Strong advocate for clean code, testing, and continuous improvement.
 
 ---
 
@@ -53,7 +54,6 @@ Throughout my academic and professional journey, I’ve gained experience across
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-000000?style=for-the-badge&logo=webhooks&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -80,8 +80,5 @@ Throughout my academic and professional journey, I’ve gained experience across
   </a>
   <a href="https://joaovgvieira.github.io/portfolio-main/">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/joaoVGvieira">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
